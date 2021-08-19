@@ -1,0 +1,41 @@
+*{
+    margin:0;
+   padding: 0;
+    font-family:' poppins';
+}
+body{
+    background: lightblue;
+   justify-content: center;
+   align-items: center;
+   padding: 40px;
+  
+}
+
+/* left section detials */
+  .left-side{
+      height: 1000px;
+     background-color: rgb(19, 4, 29);
+     justify-items: center;
+  
+  }
+.imgk{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.line{
+    background-color: ivory;
+}
+
+.leftcont{
+   text-align: center; 
+}
+
+
+/* 
+  right section details */
+  .right-side{
+    height: 1000px;
+   background-color: #fff;
+}
